@@ -103,7 +103,7 @@ Isso iniciará o menu interativo no terminal:
 
 ## 💾 Armazenamento de Dados
 
-Os dados são persistidos em um arquivo `contacts.json` na raiz do projeto. Este arquivo é criado automaticamente na primeira execução.
+Os dados são persistidos em um arquivo `contacts.json` na pasta `src/data/`. Este arquivo é criado automaticamente na primeira execução.
 
 **Estrutura do JSON:**
 ```json
@@ -159,10 +159,10 @@ $ python -m src.main
 Escolha uma opção: 1
 
 ➕ ADICIONAR CONTATO
-Nome: Giovane Zanardo
-Telefone: 14 998038713
-Email: giovane_gaz@hotmail.com
-✅ Contato 'Giovane Zanardo' adicionado com sucesso!
+Nome: João Silva
+Telefone: 11 999999999
+Email: joao.silva@example.com
+✅ Contato 'João Silva' adicionado com sucesso!
 ```
 
 ## 🛠️ Desenvolvimento
@@ -189,4 +189,6 @@ Este é um projeto de estudos da Rocketseat.
 ---
 
 **Feito com 💜 por Rocketseat 👋**
+
+<img width="1004" height="275" alt="image" src="https://github.com/user-attachments/assets/2acc6835-b1de-4fdf-9ba1-860b0106b493" />
 
