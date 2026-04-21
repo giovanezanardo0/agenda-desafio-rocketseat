@@ -1,0 +1,10 @@
+[
+  {
+    "id": "45e019d6-3117-48d5-9352-12be4492f9e4",
+    "name": "Foo",
+    "phone": "123456",
+    "email": "foo@bar.com",
+    "is_favorite": false,
+    "created_at": "2026-04-20T21:15:31.567141"
+  }
+]
